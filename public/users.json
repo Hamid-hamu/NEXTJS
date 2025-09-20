@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Hamid Maqbool",
+    "email": "hamid.maqbool@example.com",
+    "role": "Admin",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Pakeeza Noor",
+    "email": "pakeeza.noor@example.com",
+    "role": "User",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "role": "User",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Khan",
+    "email": "sophia.khan@example.com",
+    "role": "Moderator",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Liam Johnson",
+    "email": "liam.johnson@example.com",
+    "role": "User",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Emma Patel",
+    "email": "emma.patel@example.com",
+    "role": "User",
+    "status": "Inactive"
+  },
+  {
+    "id": 7,
+    "name": "Noah Wilson",
+    "email": "noah.wilson@example.com",
+    "role": "User",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Brown",
+    "email": "olivia.brown@example.com",
+    "role": "Moderator",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Ethan Thomas",
+    "email": "ethan.thomas@example.com",
+    "role": "User",
+    "status": "Inactive"
+  },
+  {
+    "id": 10,
+    "name": "Aisha Ali",
+    "email": "aisha.ali@example.com",
+    "role": "User",
+    "status": "Active"
+  }
+]

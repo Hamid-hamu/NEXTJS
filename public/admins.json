@@ -1,0 +1,25 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "name": "Hamid Maqbool",
+      "email": "hamid@example.com",
+      "role": "admin",
+      "image": "/avatars/hamid.png"
+    },
+    {
+      "id": 2,
+      "name": "Ayesha Khan",
+      "email": "ayesha@example.com",
+      "role": "admin",
+      "image": "/avatars/ayesha.png"
+    },
+    {
+      "id": 3,
+      "name": "Omar Farooq",
+      "email": "omar@example.com",
+      "role": "admin",
+      "image": "/avatars/omar.png"
+    }
+  ]
+}
